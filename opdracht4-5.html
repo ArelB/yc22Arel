@@ -12,9 +12,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
         <script>
-            function buttonPress(){
-                 let chosenID = document.getElementById(this);
-                 console.log = chosenID;
+            function buttonPress(id){
+                 let chosenID = document.getElementById(id);
+                 let startpoint = document.getElementById("container");
+                 const div = document.createElement('div');
+                 div.innerHTML = '<p> You clicked on button: ' + id +"! </p>";
+
+                 startpoint.appendChild(div);
+
             }
         </script>
     </head>
@@ -22,10 +27,11 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <button id="a" onclick="buttonPress()"> A </button>
-        <button id="b" onclick="buttonPress()"> B </button>
-        <button id="c" onclick="buttonPress()"> C </button>
-        <button id="d" onclick="buttonPress()"> D </button>
+        <button id="a" onclick="buttonPress('a')"> A </button>
+        <button id="b" onclick="buttonPress('b')"> B </button>
+        <button id="c" onclick="buttonPress('c')"> C </button>
+        <button id="d" onclick="buttonPress('d')"> D </button>
+        <div id ="container"> </div>
         <script src="" async defer></script>
     </body>
 </html>
