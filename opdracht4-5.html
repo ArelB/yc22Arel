@@ -12,12 +12,45 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
         <script>
+            let countA = 0;
+            let countB = 0;
+            let countC = 0;
+            let countD = 0;
+
             function buttonPress(id){
                  let chosenID = document.getElementById(id);
                  let startpoint = document.getElementById("container");
                  const div = document.createElement('div');
                  div.innerHTML = '<p> You clicked on button: ' + id +"! </p>";
+                //Checks count of A if more than 0 send message otherwise add count. Same for all other buttons
+                 if(countA > 0 && id == "a"){
+                    countA++;
+                    alert("You clicked on A " + countA + " times!")
+                 }else if(countA == 0 && id == "a"){
+                    countA++;
+                 }
 
+                 if(countB > 0 && id == "b"){
+                    countB++;
+                    alert("You clicked on B " + countB + " times!");
+                 }else if(countB == 0 && id == "b"){
+                    countB++;
+                 }
+
+                 if(countC > 0 && id == "c"){
+                    countC++;
+                    alert("You clicked on C " + countC + " times!")
+                 }else if(countC == 0 && id == "c"){
+                    countC++;
+                 }
+
+                 if(countD > 0 && id == "d"){
+                    countD++;
+                    alert("You clicked on D " + countD + " times!")
+                 }else if (countD == 0 && id =="d"){
+                    countD++;
+                 }
+                 //Adds div html to container div
                  startpoint.appendChild(div);
 
             }
