@@ -1,0 +1,120 @@
+Class overview:
+http://0111.nl/programmayc/programmaicataalgbrugklas.html
+
+Recap Materials:
+https://0111.nl/ubuntutouch/
+
+login voor 0111
+usernaam: iwp
+iwp321pwi wachtwoord voor 0111
+
+-my azure lab
+
+- https://labs3.virsoft.net/the-academy/az-900/html5?user=583  - voor arel.bokobza@outlook.com
+
+Azure class login:
+
+portal.azure.com
+
+proefaccount@infocodefounders.onmicrosoft.com
+
+w@lkom123!
+
+Github for AZ-900T0x
+
+https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals
+
+Class Notes:
+
+Tag is een broncode die een element maakt in de browser
+Reference guide - API - DOCS - documentatie
+2 benen
+- Syntax vaardigheid
+- Bibliotheekbekendheid
+
+HTML Reference guide - hele lijst met tags
+Attribuut - informatie binnen de tag voor verandering binnen de browser etc style etc
+Kan vinden op clicken op element van de tag binnen reference guide
+Als de value van de attribute is dezelfde kan alleen de attribute schrijven
+< les than, tag openen
+~ tilde 
+| vertical streepje pipe
+{ curly bracket accolade
+/ Slash - forward slash
+\ slash - backward slash
+[ Square bracket
+` backtick
+' single quote
+" double quote
+^ dakje circonflex pijlte omhoog
+; semi colon
+: colon
+
+HTML events geven informatie over user events
+functies hebben altijd ()
+JS nieuw variable is let ook
+W3schools has reference guide for other languages eg css,js
+Alleen de leestekens op de toetsenboord
+
+Git is a Version Control System - VCS
+Commit - capture of code at one moment
+Online -> github
+Lokaal -> git
+use git.bash to run git
+Git maakt een folder op de harddrive. Binnen de folder maken we een repository, alles dat wordt gebruikt binnen git
+pwd is to know current address
+CD -> ChangeDirection - can use tab for autocomplete
+CD .. is een folder omhoog te gaan
+git init - maak een repository
+To remove repository just delete the folder
+history - alle commands zien
+clear - maakt alles leeg
+
+Iedere repository heeft een stage-> wat wordt genomen in de volgende commit
+git status -> laat de status zien
+git add . -> zet alles op de stage
+git commit -am "name"
+verandering in de file noemt deltas
+git log -> laat alle commits zien
+VI -> linux file viewer
+typen in insert -> druk op e
+esc op command mode
+git commit opent VI voor notities
+Om uit te komen :wq
+vi -> file openen of nieuwe bestand maken
+origin -> online repository versie
+
+Willen dat commits online gaan voor backup
+git remote add origin https://github.com/ArelB/yc22Arel.git - example to add online
+git push -u origin master -> push online daarna alleen git push
+git checkout 6-8 first numbers -> takes out that commit
+git checkout master -> back to the first one
+git add . && git commit -am "name" && git push -> alles in een command maken
+
+Eenrichtingsverkeer->
+Belangrijke momenten -> 
+Communiceren
+Nadenken 
+
+Altijd een founder en collaborators
+U- zonder communicatie
+
+Eerst git clone (https repository)
+git checkout -b name -> make new branch
+
+then to merge it all together - O moet communiceren altijd rechtsboven
+git checkout master -> naar de master gaan
+git pull -> online versie nemen
+git checkout featureArel (git that needs to be pushed online)
+git merge master -> maakt een commit van de twee
+git push -> dit gaat online
+
+Nu op de GUI github
+go to your branch -> contribute -> pull request
+
+Als er een conflict is zie je CONFLICT de file moet worden gewerkd. getouched. -> Zit vast in MERGING state
+
+in ubuntutouch zoek samenvatting voor c#/java syntax
+PYTHON De Vier manieren van data verzamelen in ubuntu touch
+
+do-while loop break
