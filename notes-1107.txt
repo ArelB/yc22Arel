@@ -1,0 +1,64 @@
+public/private etc = access modifier
+Class = keyword
+Class name = always starts with capital letter
+Inside curly brackets is the code block
+
+Class to object: new Person();
+= is assignment
+Value is the value
+
+int etc is datatype
+then the name is the variable name
+
+Person p = declaration
+= new person() -> assignment
+
+De hele regel is initilization
+
+Als we een object afdrukken -> krijgen we namespace.class name
+
+When a class has an data type it is called a property eg string name
+
+Property always has capital letter
+
+Memory:
+
+Stack - Heap
+
+On the stack -> p1 is used
+Heap -> In the heap person object is made, then it refers from p1 stack to the heap
+New block on the stack when p2 is made and also refers to a new person on the heap
+Name age etc are on the heap
+When using p2. then the system checks on the heap. With that line it changes the heap value of the name
+PrintData custom function for examples accesses data from the heap
+
+Numbers are never exactly 2.50 for example its 2.49999999999873
+For prices use decimal for more mathetical operations
+
+For c# we need to know how many bits per type and signed unsigned etc
+google c# data types
+
+Encapsulation -> Design pattern -> Way to code to get a specific result
+Class value is private -> Encapsulation -> Getters, Setters
+
+Setter is a function, can check for specific values for example. 
+Get can be made private to prevent changes
+Can modify set for check
+
+Stack-> Every time we call a function from a constructor it makes sure there's a new block on the stack
+p1, p2 on the stack (objects of class)
+Called function on p2 (print data). 
+Because there's no arguments nothing set on stack
+
+arguments also in stack and then removed after. 
+The first that is set on the stack is the last to go out
+Filo -> First in last out
+
+Inheritance:
+when using abstract classes or functions need to use ovverride
+Example animal a = new kat() takes the maak geluid function from the cat function thanks to abstract
+
+Private -> alleen in eigen klas
+public -> Mag iedereen het aanroepen
+protected -> eigen klas + alle subklasses
+Internal -> binnen de project of de namespace
