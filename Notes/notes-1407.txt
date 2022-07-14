@@ -1,0 +1,65 @@
+Database -> gebruikt persisted data -> Gestructeerde vorm van data opslaan -> tables
+Server-> Een berucht homoniem= Metale doos in een server rek (form factor van een computer) 
+Applicatie die altijd aan staat en antwoord geven aan verzoeken
+Bijvoorbeeld door SQL
+Framework-> Zit dicht naar een library. Eigenlijk een library van libraries -> eg Jquery, Angular -> Combines the libaries together it's always source code
+in a specific language. Bijvoorbeeld .net is de framework van c#. Spring is de framework van Java
+Library-> Broncode van een ander
+Native is zonder framework
+IP Adres -> toegang punten voor pc rond 65 000 dan is de port bezet. Server neemt een poort. De ip adress zit achter de :
+Database zit meestal op 3306
+Library kan je eigen namen etc gebruiken, met een framework moet alles op zijn naam zijn anders werkt het niet. 
+Dependency is een library die via het framework activeert om applicate te gebruiken
+JSON = JavaScript Object Notitie
+
+Eind Gebruiker
+
+MVC is design pattern
+
+Model is on bottom next to the database
+Controller is de business layer
+View is user focused
+
+When making MVC create new project for database context
+The class name moet de data type zijn
+
+ubuntutouch Java sample
+Java book only read summary of each chapter
+
+https://www.0111.nl/gsw/
+
+
+builder.Services.AddDbContext<MyContext>(options => {
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+    });
+
+In visual studio view server explorer -> add new connection -> find server name in microsoft sql server management studio -> get connection string from properties
+Copy this into json visual studio  "ConnectionStrings": {
+    "Default"
+
+Install entity frameworks tools
+
+Package manager - Add-Migration -> Takes the application into the database to manage it. Turning tables into objects automatically. This is called ORM
+
+ORM -> Object Relational Mapping 
+
+Choose name for migration no spaces
+Choose the default project to be the database in package manager console
+Update-Database
+
+REST/SOAP 
+Endpoints -> URL -> If you ask for URL JSON is sent back to Angular then to the laptop
+That technique is called AJAX
+SOAP is with XML
+
+Protocol Communicatie regels eg HTTP, IP, FTP, TCP, UDP, RDP
+All members should be aware of and know the protocol
+REST is through HTTP ->JSON
+
+
+https://localhost:7272/api/Film
+
+Create Item with API/read/Write 
+Can change get to lead to different locations with different functions
+
+
