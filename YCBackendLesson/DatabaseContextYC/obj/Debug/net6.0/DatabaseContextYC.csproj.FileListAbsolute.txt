@@ -1,0 +1,14 @@
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\bin\Debug\net6.0\DatabaseContextYC.deps.json
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\bin\Debug\net6.0\DatabaseContextYC.runtimeconfig.json
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\bin\Debug\net6.0\DatabaseContextYC.dll
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\bin\Debug\net6.0\DatabaseContextYC.pdb
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.csproj.AssemblyReference.cache
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.AssemblyInfoInputs.cache
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.AssemblyInfo.cs
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.csproj.CoreCompileInputs.cache
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.dll
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\refint\DatabaseContextYC.dll
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.pdb
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\DatabaseContextYC.genruntimeconfig.cache
+C:\Users\arelb\source\repos\YCBackendLesson\DatabaseContextYC\obj\Debug\net6.0\ref\DatabaseContextYC.dll
