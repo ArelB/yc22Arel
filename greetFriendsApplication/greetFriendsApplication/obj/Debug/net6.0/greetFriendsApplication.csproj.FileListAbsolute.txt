@@ -1,0 +1,15 @@
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\bin\Debug\net6.0\greetFriendsApplication.exe
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\bin\Debug\net6.0\greetFriendsApplication.deps.json
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\bin\Debug\net6.0\greetFriendsApplication.runtimeconfig.json
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\bin\Debug\net6.0\greetFriendsApplication.dll
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\bin\Debug\net6.0\greetFriendsApplication.pdb
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.csproj.AssemblyReference.cache
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.AssemblyInfoInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.AssemblyInfo.cs
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.csproj.CoreCompileInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.dll
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\refint\greetFriendsApplication.dll
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.pdb
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\greetFriendsApplication.genruntimeconfig.cache
+C:\Users\arelb\Desktop\yc22Arel\greetFriendsApplication\greetFriendsApplication\obj\Debug\net6.0\ref\greetFriendsApplication.dll

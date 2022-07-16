@@ -1,0 +1,73 @@
+Design patterns:
+
+- Use classes, properties, constructors and functions
+- High cohesion, low coupling
+- Every design pattern has an advantage, some have a disadvantage
+
+Essentially different tools that can be used in different situations
+
+-Encapsulation -> getters + setters
+
+-Getters select the name and setters use the value. Use them as accessports and can use them to create checks etc
+
+
+- Singleton -> most common design patterns
+- Decorator
+- Adapter
+
+Cache-< voorbeeld van singleton -> buffer, cache in geheugen
+
+Settings cache 	
+
+Singleton -> Object maar een keer aangemaakt kan worden
+
+-Static -> Wordt property op 1 plek in het gehugen bewaard
+Call it through the class not the object so for example Car (class name)
+
+Can also make a constructor private (outside can't access the object)
+
+Static function om het singleton aan te maken
+
+getInstance function
+
+ Adapter Pattern:
+
+Have old code, can connect new code to it. Conversion tool to attach new application to an old one
+
+New application calls adapter class function which calls an old function
+
+Interface -> Class that can only have empty functions
+
+For example an intereface has an function getwalletamount() -> everything that inherits this interface uses this function. The new
+application only calls the adapter class, then the adapter class can talk to the old application. Can later change the adapter to 
+talk to something new to get its information and remove old code. 
+
+High cohesion, low coupling
+
+Adapter class
+
+-Shared interface -> Has one or more function 
+-Old class
+-Adapter class -> Together old and adapter extend interface
+Application calls the adapter
+
+Oefening:
+
+Old class has two functions -> get amount , return int doTransaction argument getal
+Attach the adapter class 
+In program.cs call the adapter functions
+
+Decorator design pattern
+
+- Veel variates heb op een object
+- Coffee -> toevoegingen -> 4 toevoegingen
+- Coffee lijst van toevoegening 
+
+Code van coffee wil toevoegen
+Milk decorator -> property coffee
+
+Has same functions-> has reference to coffee
+Ask price of coffee through milk decorator which can make changes for example + 0.5
+
+SugarDecorator -> propertyCoffee, get price, ingredients (Same functions)
+
