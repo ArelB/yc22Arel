@@ -1,0 +1,15 @@
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\bin\Debug\net6.0\ConsoleClass.exe
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\bin\Debug\net6.0\ConsoleClass.deps.json
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\bin\Debug\net6.0\ConsoleClass.runtimeconfig.json
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\bin\Debug\net6.0\ConsoleClass.dll
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\bin\Debug\net6.0\ConsoleClass.pdb
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.csproj.AssemblyReference.cache
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.AssemblyInfoInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.AssemblyInfo.cs
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.dll
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\refint\ConsoleClass.dll
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.pdb
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ConsoleClass.genruntimeconfig.cache
+C:\Users\arelb\Desktop\yc22Arel\ConsoleClass\ConsoleClass\obj\Debug\net6.0\ref\ConsoleClass.dll

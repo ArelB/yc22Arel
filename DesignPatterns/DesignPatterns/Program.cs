@@ -20,3 +20,10 @@ Console.WriteLine("How much money do you want to add?");
 int amount = int.Parse(Console.ReadLine());
 Console.WriteLine(A1.doTransaction(amount)); */
 
+/*SimpleCoffee sc = new SimpleCoffee();
+MilkDecorator md = new MilkDecorator(sc);
+SugarDecorator sugar = new SugarDecorator(md);
+Console.WriteLine(sugar.GetPrice());*/
+
+
+

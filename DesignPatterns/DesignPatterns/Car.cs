@@ -51,7 +51,7 @@ namespace DesignPatterns
         public bool hasEngine { get; set; }
 
 
-    }
+    } 
 
     public class Singleton
     {
