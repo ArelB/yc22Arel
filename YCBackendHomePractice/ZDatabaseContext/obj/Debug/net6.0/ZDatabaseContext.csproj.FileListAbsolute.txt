@@ -1,0 +1,14 @@
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\bin\Debug\net6.0\ZDatabaseContext.deps.json
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\bin\Debug\net6.0\ZDatabaseContext.runtimeconfig.json
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\bin\Debug\net6.0\ZDatabaseContext.dll
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\bin\Debug\net6.0\ZDatabaseContext.pdb
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.csproj.AssemblyReference.cache
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.AssemblyInfoInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.AssemblyInfo.cs
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.dll
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\refint\ZDatabaseContext.dll
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.pdb
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ZDatabaseContext.genruntimeconfig.cache
+C:\Users\arelb\Desktop\yc22Arel\YCBackendHomePractice\ZDatabaseContext\obj\Debug\net6.0\ref\ZDatabaseContext.dll

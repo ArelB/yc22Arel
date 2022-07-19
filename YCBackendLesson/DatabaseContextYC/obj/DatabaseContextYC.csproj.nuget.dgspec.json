@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj": {}
+    "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj": {
+    "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj",
+        "projectUniqueName": "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj",
         "projectName": "DatabaseContextYC",
-        "projectPath": "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj",
+        "projectPath": "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\DatabaseContextYC\\DatabaseContextYC.csproj",
         "packagesPath": "C:\\Users\\arelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\DatabaseContextYC\\obj\\",
+        "outputPath": "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\DatabaseContextYC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arelb\\AppData\\Roaming\\NuGet\\NuGet.Config",

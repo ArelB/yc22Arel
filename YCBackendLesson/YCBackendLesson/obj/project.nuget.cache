@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/dL7n+65yUIoeik8FO0k/Cbtu3NzPGQdI5a1XiDLhtB4//WLzls0lzeBBNeDkf166iyuYxYTOTNNLeHQxs+SQ==",
+  "dgSpecHash": "UomSRvZfObIO5kaY7s0YvTK3Std+r/fHYWXOsP2qW9PkB5sN+SR2ctYalqZtKz0NmVvpncTLx8SlKRbGT+u6/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arelb\\source\\repos\\YCBackendLesson\\YCBackendLesson\\YCBackendLesson.csproj",
+  "projectFilePath": "C:\\Users\\arelb\\Desktop\\yc22Arel\\YCBackendLesson\\YCBackendLesson\\YCBackendLesson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arelb\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\arelb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
