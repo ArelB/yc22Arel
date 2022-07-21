@@ -1,0 +1,70 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/3.2.12/leaflet-routing-machine.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/3.2.12/leaflet-routing-machine.min.js"></script>
+<!-- end Leaflet map -->
+<span id="latitude">Latitude: ...</span>
+<span id="longtitude">Longtitude: ...</span>
+
+<span id="logsvf"></span>
+<div id="map" style="width: 100%; height: 80%;"></div>
+<style>
+    body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 50vw;
+}
+</style>
+
+<script>
+$(document).ready(function(){
+L.mapbox.accessToken = 'pk.eyJ1IjoiYXJlbGIiLCJhIjoiY2w1dXhhNDI4MDQ2dzNldDIzcHBpaGVncyJ9.yKM2McNilQkocrk0q89j7w';
+    
+var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    tileSize: 512,
+    zoomOffset: -1
+})
+
+var map = L.map('map')
+  .addLayer(tiles)
+.locate({setView: true, maxZoom: 9});
+
+map.on('locationfound', onLocationFound);
+map.on('click', onMapClick); 
+                     
+function onLocationFound(e) {
+L.Routing.control({
+    router: L.Routing.mapbox(L.mapbox.accessToken,{
+                    profile : 'mapbox/walking',
+                    language: 'en',
+                }),
+                waypoints: [
+                    L.latLng(e.latlng),
+                    L.latLng(e.latlng)
+                ],
+
+}).addTo(map)
+.on('waypointschanged', function (e) {
+    //Correct information under selectedRoute under source target
+    console.log(e);
+});
+
+}
+
+map.on("click", function(e){
+    alert("HALLOOOOOOOOO");
+})
+
+function onMapClick(e){
+}
+
+});     
+</script>

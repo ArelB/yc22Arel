@@ -1,0 +1,12 @@
+to ignore specific files create a file called .gitignore
+*/bin/** 
+.vs/**
+*/obj/**
+Git reset
+Then can avoid merge conflicts from vs files
+
+4 ways of getting data with python
+#database - first and best
+#api - otherwise get api
+#csv - copy of database
+#scraping - take from website etc
